@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <cs50.h>
 
+//My educational exercise
+
 int main (void)
 {
     int height, row, column, space;
